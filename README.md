@@ -1,5 +1,23 @@
 # CLASS 8
 
+### Retro Flowchart
+
+![Retro](RETRO.png)
+
+### My Action Points
+
+### Imperative vs. Declarative Programming
+
+[More info](https://programiz.pro/resources/imperative-vs-declarative-programming/#:~:text=Imperative%20programming%20specifies%20and%20directs,about%20how%20the%20program%20works.)
+
+### C Programming
+
+[More info](https://www.programiz.com/c-programming)
+
+### Difference between Compiled and Interpreted Language
+
+[More info](https://www.geeksforgeeks.org/difference-between-compiled-and-interpreted-language/)
+
 ### ¿What’s the difference between using let and var in JavaScript??
 The keywords **let** and **var** both declare new variables in JavaScript. The difference between **let** and **var** is in the scope of the variables they create:
 - Variables declared by **let** are only available inside the block where they’re defined.
@@ -10,6 +28,7 @@ The behavior of **var** can be useful in some cases, but is quite different from
 One final point to note is that when working outside of function bodies, at a global level, **let** does not create a property on the global object, whereas **var** does.
 [More info](https://sentry.io/answers/difference-between-let-and-var-in-javascript/)
 
-### Retro Flowchart
+### Difference between " ", ' ' and ´´
 
-[Retro](RETRO.png)
+[More info](https://stackoverflow.com/questions/944081/what-is-the-difference-between-and-in-javascript)
+
